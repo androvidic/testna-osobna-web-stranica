@@ -32,14 +32,15 @@ if ($time < 12) {
     $greeting = "Dobra večer";
 }
 
-echo $greeting . ", vam želimo - dobro došli na naš web";
+echo $greeting . ", vam želimo - dobro došli na naš web!";
 ?>
 </h1> 
 <br>
-<div><p>Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!
-Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove!</p><br>
-<p>U nastavku vas čekaju svi podaci naših tečajeva.
-Stojimo Vam na raspolaganju za sva potencijalna pitanja.</p></div>
+<br>
+<div><h3 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h3><br><br>
+<h4 style="color: darkslategray">Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove!
+U nastavku vas čekaju svi podaci naših tečajeva.</h4><br>
+<p style="font-style: italic;color: darkslategray">Stojimo Vam na raspolaganju za sva potencijalna pitanja.</p></div>
 </div>
 <hr>
 <br>
@@ -88,42 +89,42 @@ Stojimo Vam na raspolaganju za sva potencijalna pitanja.</p></div>
 <div class="container hero">
 <h3>Za prijavu na tečaj, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
 <br>
-    <form method="post" action="autentichate.php" id="prijavniobrazac">
+    <form method="post" action="autenthicate.php" id="prijavniobrazac">
         <label for="name">Ime i prezime</label>
-    <input type="text" name="ime" placeholder="Upišite svoje ime i prezime">
+    <input type="text" name="ime" placeholder="Upišite svoje ime i prezime" required>
     <br>
     <br>
     <label for="mjesto">Mjesto stanovanja</label>
-        <input type="text" name="mjesto" placeholder="Unesite svoje mjesto stanovanja">
+        <input type="text" name="mjesto" placeholder="Unesite svoje mjesto stanovanja" required>
     <br>
     <br>
     <label for="adresa">Adresa stanovanja</label>
-        <input type="text" name="adresa" placeholder="Naziv ulice i kućni broj">
+        <input type="text" name="adresa" placeholder="Naziv ulice i kućni broj" required>
     <br>
     <br>
     <label for="oib">Vaš OIB </label>
-        <input type="number" name="oib" placeholder="Unesite Vaš OIB">
+        <input type="number" name="oib" placeholder="Unesite Vaš OIB" required pattern="[0-9]{11}">
     <br>
     <br>
     <label for="komentar">Komentar na gradivo</label>
-        <textarea name="komentar" maxlength="500">Napišite svoj komentar na gradivo koje želite posebno naučiti</textarea>
+        <textarea name="komentar" maxlength="500" required>Napišite svoj komentar na gradivo koje želite posebno naučiti</textarea>
     <br>
     <br>
 <div class="radio-group">
     <label for="spol">Spol</label>
-        <input type="radio" name="spol" value="m" checked>muški
+        <input type="radio" name="spol" required value="m" checked>muški
     <input type="radio" name="spol" value="f">ženski
     <input type="radio" name="spol" value="n">ne želim odgovoriti
 </div>
 <br>
 <label for="tecaj">Odaberite tečaj koji želite upisati</label>
-    <select name="tecaj">
-    <option value="linux">Linux priprema radne okoline</option>
-    <option value="sql">Uvod u HTML	</option>
-    <option value="php">Uvod u PHP</option>
-    <option value="sql">Uvod u SQL</option>
-    <option value="napredni php">Napredni PHP</option>
-    <option value="laravel">Laravel</option>
+    <select name="tecaj" required>
+    <option value="Linux priprema radne okoline">Linux priprema radne okoline</option>
+    <option value="Uvod u HTML">Uvod u HTML	</option>
+    <option value="Uvod u PHP">Uvod u PHP</option>
+    <option value="Uvod u SQL">Uvod u SQL</option>
+    <option value="Napredni PHP">Napredni PHP</option>
+    <option value="Laravel">Laravel</option>
 </select>
 <br>
 <br>

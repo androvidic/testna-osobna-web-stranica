@@ -1,11 +1,38 @@
 [
-        {
-            "imeIPrezime": "Ivan Ivic",
-            "mjesto": "Osijek",
-            "adresa": "Trg A. Starcevica 2",
-            "oib": "12345678901",
-            "komentar": "Testni komentar",
-            "spol": "m",
-            "tecaj": "Uvod u HTML"
-        }
-    ]
+    {
+        "imeIPrezime": "Andrija Vidić",
+        "mjesto": "Osijek",
+        "adresa": "Ružina 75",
+        "oib": "54990066109",
+        "komentar": "Testno gradivo",
+        "spol": "m",
+        "tecaj": "Uvod u SQL"
+    },
+    {
+        "imeIPrezime": "Maja Marić",
+        "mjesto": "Vinkovci",
+        "adresa": "Ivanščice 9",
+        "oib": "19751279669",
+        "komentar": "Gradivo koje me zanima  je Linux, želim naučiti što više o tome kako bih mogla raditi u praksi u Linuxu",
+        "spol": "f",
+        "tecaj": "Linux priprema radne okoline"
+    },
+    {
+        "imeIPrezime": "Marijan Mirić",
+        "mjesto": "Đakovo",
+        "adresa": "Jakova Gotovca 103",
+        "oib": "89162449378",
+        "komentar": "Želim naučiti php osnove kako bih počeo raditi",
+        "spol": "n",
+        "tecaj": "Uvod u PHP"
+    },
+    {
+        "imeIPrezime": "Marijana Marinić",
+        "mjesto": "Čepin",
+        "adresa": "Bana Jelačića 107",
+        "oib": "69609917921",
+        "komentar": "Marijana ne zeli nauciti nista, zeli samo pohadati tecaj jer je cool",
+        "spol": "f",
+        "tecaj": "Laravel"
+    }
+]

@@ -58,11 +58,20 @@ table {
     border-collapse: collapse;
     align-items: center;
     margin: auto;
+    width: 100%;
+}
+
+tr {
+    height: auto;
+    align-items: center;
 }
 
 td, th {
     border: 2px solid #4A4A4A;
     padding: 10px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
 }
 
 form {
