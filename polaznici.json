@@ -34,5 +34,32 @@
         "komentar": "Marijana ne zeli nauciti nista, zeli samo pohadati tecaj jer je cool",
         "spol": "f",
         "tecaj": "Laravel"
+    },
+    {
+        "imeIPrezime": "Marija Matić",
+        "mjesto": "Županja",
+        "adresa": "Ružina 78",
+        "oib": "89162449378",
+        "komentar": "Testno gradivo želim",
+        "spol": "f",
+        "tecaj": "Napredni PHP"
+    },
+    {
+        "imeIPrezime": "Marijan Mirić",
+        "mjesto": "Tenja",
+        "adresa": "Ružina 75",
+        "oib": "88213207534",
+        "komentar": "Test",
+        "spol": "f",
+        "tecaj": "Uvod u SQL"
+    },
+    {
+        "imeIPrezime": "Mirta Mirtić",
+        "mjesto": "Županja",
+        "adresa": "Bana Jelačića 185",
+        "oib": "69609917921",
+        "komentar": "Test",
+        "spol": "f",
+        "tecaj": "Uvod u SQL"
     }
 ]
