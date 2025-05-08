@@ -1,0 +1,13 @@
+{{
+    "polaznici": [
+        {
+            "imeIPrezime": "Ivan Ivic",
+            "mjesto": "Osijek",
+            "adresa": "Trg A. Starcevica 2",
+            "oib": "12345678901",
+            "komentar": "Testni komentar",
+            "spol": "m",
+            "tecaj": "Uvod u HTML"
+        }
+    ]
+}}

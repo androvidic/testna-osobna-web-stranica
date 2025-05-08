@@ -90,7 +90,7 @@ Stojimo Vam na raspolaganju za sva potencijalna pitanja.</p></div>
 <br>
     <form method="post" action="autentichate.php" id="prijavniobrazac">
         <label for="name">Ime i prezime</label>
-    <input type="text" name="Vaše ime i prezime" placeholder="Upišite svoje ime i prezime">
+    <input type="text" name="ime" placeholder="Upišite svoje ime i prezime">
     <br>
     <br>
     <label for="mjesto">Mjesto stanovanja</label>
