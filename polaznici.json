@@ -1,4 +1,4 @@
-{
+[
         {
             "imeIPrezime": "Ivan Ivic",
             "mjesto": "Osijek",
@@ -8,4 +8,4 @@
             "spol": "m",
             "tecaj": "Uvod u HTML"
         }
-}
+    ]
