@@ -41,7 +41,7 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
     <table> 
         <h3 style="margin: 10px; padding: 10px">Moduli tečajeva programiranja u Algebri</h3>
         <tr> 
-            <th>Modul tečaja u NB-AID-u</th>
+            <th>Modul tečaja u Algebri-u</th>
              <th>Trajanje modula u satima</th>
              <th>Cijena modula</th>
         </tr> 
