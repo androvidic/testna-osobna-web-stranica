@@ -9,7 +9,7 @@
     <?php include 'header.php'; ?>
     <main>
     <div class="container hero" id="o_nama">
-    <h1 class="container hero">
+    <h1 class="container hero" style="color: darkslategray">
 <?php
 $time = date("H");
 
@@ -33,11 +33,16 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
 <h4 style="font-style: italic;color: darkslategray">Naše usluge su vam na raspolaganju. Naš tim profesionalaca je tu za sva potencijalna pitanja.</h4></div>
 <br>
 <br>
-<div>
+    </div>
+    <div class="container hero">
+        <h2 style="color: darkslategray" class="container hero">Uz naše usluge ste na korak do digitalizacije Vašeg poslovanja!</h2>
+        <br>
     <img class = "container hero" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
 </div>
-    </div>
 <div class="container hero" id="naseusluge">
+    <h2 class="container hero" style="color: darkslategray">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
+    <br>
+    <h3 class="container hero" style="color: darkslategray">Izaberite svoj modul i lansirajte svoju karijeru u programiranju!</h3>
     <table> 
         <h3 style="margin: 10px; padding: 10px">Moduli tečajeva programiranja u Algebri</h3>
         <tr> 
