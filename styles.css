@@ -114,14 +114,16 @@ button[type="submit"]:hover, input[type="submit"]:hover {
 }
 
 a {
-    color: #007BFF; 
+    color: #3f91e9; 
     text-decoration: none; 
     transition: color 0.3s, text-decoration 0.3s; 
 }
 
 a:hover {
-    color: #0056b3; 
-    text-decoration: underline; 
+    color: #2271c5; 
+    text-decoration: underline;
+    transform: scale(1.05);
+    transition: transform 0.3s;
 }
 
 
@@ -136,6 +138,9 @@ nav ul li:hover {
     background-color: rgba(0, 0, 0, 0.1); 
     border-radius: 5px; 
     transition: background-color 0.3s; 
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s; 
 }
 .container {
     width: 90%; 

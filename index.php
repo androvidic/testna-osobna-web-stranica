@@ -26,10 +26,11 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
 </h1> 
 <br>
 <br>
-<div><h3 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h3><br><br>
-<h4 style="color: darkslategray">Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove!
-U nastavku vas čekaju svi podaci naših tečajeva.</h4><br>
-<p style="font-style: italic;color: darkslategray">Stojimo Vam na raspolaganju za sva potencijalna pitanja.</p></div>
+<div><h2 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h2><br>
+<h2 style="color : darkslategray">Napravite korak prema digitalizaciji vašeg poslovanja!</h2><br>
+<h3 style="color: darkslategray">Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove!
+</h3><br>
+<h4 style="font-style: italic;color: darkslategray">U nastavku vas čekaju svi podaci naših tečajeva. Naš tim profesionalaca Vam je na raspolaganju za sva potencijalna pitanja.</h4></div>
 </div>
 <hr>
 <br>
