@@ -9,6 +9,26 @@
 <body>
     <?php include 'header.php'; ?>
     <div class="container hero">
+        <input type="text" id="filterInput" placeholder="Pretraži polaznike..." onkeyup="filterTable()">
+
+<script>
+function filterTable() {
+    let input = document.getElementById("filterInput").value.toUpperCase();
+    let table = document.querySelector("table");
+    let tr = table.getElementsByTagName("tr");
+
+    for (let i = 1; i < tr.length; i++) {
+        let td = tr[i].getElementsByTagName("td");
+        let rowMatch = false;
+        for (let j = 0; j < td.length; j++) {
+            if (td[j] && td[j].innerHTML.toUpperCase().indexOf(input) > -1) {
+                rowMatch = true;
+            }
+        }
+        tr[i].style.display = rowMatch ? "" : "none";
+    }
+}
+</script>
     <table>
         <caption style="padding: 10px; margin: 10px;"><h3>Podaci o polaznicima</h3></caption>
         <tr>
