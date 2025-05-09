@@ -9,7 +9,7 @@
     <?php include 'header.php'; ?>
     <main>
     <div class="container hero" id="o_nama">
-    <h1>
+    <h1 class="container hero">
 <?php
 $time = date("H");
 
@@ -26,18 +26,20 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
 </h1> 
 <br>
 <br>
-<div><h2 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h2><br>
+<div class="container hero"><h2 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h2><br>
 <h2 style="color : darkslategray">Napravite korak prema digitalizaciji vašeg poslovanja!</h2><br>
 <h3 style="color: darkslategray">Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove!
 </h3><br>
-<h4 style="font-style: italic;color: darkslategray">U nastavku vas čekaju svi podaci naših tečajeva. Naš tim profesionalaca Vam je na raspolaganju za sva potencijalna pitanja.</h4></div>
+<h4 style="font-style: italic;color: darkslategray">Naše usluge su vam na raspolaganju. Naš tim profesionalaca je tu za sva potencijalna pitanja.</h4></div>
+<br>
+<br>
+<div>
+    <img class = "container hero" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
 </div>
-<hr>
-<br>
-<br>
+    </div>
 <div class="container hero" id="naseusluge">
     <table> 
-        <h3 style="margin: 10px; padding: 10px">Moduli tečajeva u NB-AID-u</h3>
+        <h3 style="margin: 10px; padding: 10px">Moduli tečajeva programiranja u Algebri</h3>
         <tr> 
             <th>Modul tečaja u NB-AID-u</th>
              <th>Trajanje modula u satima</th>
@@ -77,7 +79,7 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
     <br>
     <br>
 <div class="container hero">
-<h3>Za prijavu na tečaj, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
+<h3>Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
 <br>
     <form method="post" action="autenthicate.php" id="prijavniobrazac">
         <label for="name">Ime i prezime</label>
