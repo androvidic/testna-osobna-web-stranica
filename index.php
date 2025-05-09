@@ -7,7 +7,6 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-    <hr>
     <main>
     <div class="container hero" id="o_nama">
     <h1>
@@ -122,7 +121,6 @@ U nastavku vas čekaju svi podaci naših tečajeva.</h4><br>
     </form>
 </div>
     <br>
-    <hr>
     </main>
 <?php include 'footer.php' ?>
 </body>

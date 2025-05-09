@@ -7,6 +7,7 @@
     <title>Obrada</title>
 </head>
 <body>
+    <?php include 'header.php'; ?>
     <div class="container hero">
     <table>
         <caption style="padding: 10px; margin: 10px;"><h3>Podaci o polaznicima</h3></caption>
@@ -33,5 +34,6 @@
     ?>
     </table>
     </div>
+        <?php include 'footer.php' ?>
 </body>
 </html>

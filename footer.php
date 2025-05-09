@@ -7,6 +7,7 @@
     <title>Footer</title>
 </head>
 <body>
+    <hr>
 <footer>
     <div class="footer-content" id="footer">
         <img src="slike/ANDRIJA%20VIDI%C4%86.jpg" alt="Developer je Andrija Vidić" title="Developer je Andrija Vidić" width="180" height="280"> 
