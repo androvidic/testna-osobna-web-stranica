@@ -8,8 +8,24 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
+
     <div class="container hero">
-        <input type="text" id="filterInput" placeholder="Pretraži polaznike..." onkeyup="filterTable()">
+         <button onclick="downloadExcel()" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px;" class="container hero">Preuzmi kao Excel</button>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    
+    <script>
+function downloadExcel() {
+    let table = document.querySelector("table");
+    let wb = XLSX.utils.book_new();
+    let ws = XLSX.utils.table_to_sheet(table);
+    
+    XLSX.utils.book_append_sheet(wb, ws, "Polaznici");
+    XLSX.writeFile(wb, "Polaznici.xlsx");
+}
+
+</script>
+        <input type="text" id="filterInput" placeholder="Pretraži polaznike..." onkeyup="filterTable()" class="container hero">
 
 <script>
 function filterTable() {
