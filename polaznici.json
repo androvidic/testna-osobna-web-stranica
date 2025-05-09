@@ -61,5 +61,59 @@
         "komentar": "Test",
         "spol": "f",
         "tecaj": "Uvod u SQL"
+    },
+    {
+        "imeIPrezime": "Kristina Krisić",
+        "mjesto": "Tenja",
+        "adresa": "Kristinina 22",
+        "oib": "89162449378",
+        "komentar": "Test",
+        "spol": "f",
+        "tecaj": "Uvod u SQL"
+    },
+    {
+        "imeIPrezime": "Perica Perić",
+        "mjesto": "Vinkovci",
+        "adresa": "Jakova Gotovca 177",
+        "oib": "69609917921",
+        "komentar": "Test",
+        "spol": "m",
+        "tecaj": "Napredni PHP"
+    },
+    {
+        "imeIPrezime": "Andrija Vidić",
+        "mjesto": "Vinkovci",
+        "adresa": "Ulica kardinala Alojzija Stepinca 21",
+        "oib": "19751279669",
+        "komentar": "Test Javascripta",
+        "spol": "m",
+        "tecaj": "Uvod u PHP"
+    },
+    {
+        "imeIPrezime": "Andrija Vidić",
+        "mjesto": "Vinkovci",
+        "adresa": "Ivanščice 9",
+        "oib": "69609917921",
+        "komentar": "Test JS",
+        "spol": "m",
+        "tecaj": "Uvod u PHP"
+    },
+    {
+        "imeIPrezime": "Andrija Vidić",
+        "mjesto": "Osijek",
+        "adresa": "Ulica kardinala Alojzija Stepinca 21",
+        "oib": "69609917921",
+        "komentar": "test",
+        "spol": "m",
+        "tecaj": "Uvod u PHP"
+    },
+    {
+        "imeIPrezime": "Marko Marijanić",
+        "mjesto": "Vinkovci",
+        "adresa": "J.J. Strossmayera",
+        "oib": "88213207534",
+        "komentar": "Test headera i footera",
+        "spol": "n",
+        "tecaj": "Uvod u SQL"
     }
 ]

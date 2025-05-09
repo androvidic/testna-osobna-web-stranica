@@ -6,17 +6,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <a href="#"><img src="slike\Transparent.png" alt="NbAid" width="300px"></a>
-<nav>
-    <ul><a href="#">Početna stranica</a>
-        <a href="#o_nama">O nama</a>
-        <a href="#naseusluge">Naše usluge</a>
-        <a href="#prijavniobrazac">Prijave</a>
-        <a href="#footer">Kontakt</a>
-    </ul>
-</nav>
-</header>
+    <?php include 'header.php'; ?>
     <hr>
     <main>
     <div class="container hero" id="o_nama">
@@ -129,21 +119,12 @@ U nastavku vas čekaju svi podaci naših tečajeva.</h4><br>
 <br>
 <br>
     <input type="submit" value="Pošalji">
-
     </form>
 </div>
     <br>
     <hr>
     </main>
-<footer>
-    <div class="footer-content" id="footer">
-        <img src="slike/ANDRIJA%20VIDI%C4%86.jpg" alt="Developer je Andrija Vidić" title="Developer je Andrija Vidić" width="180" height="280"> 
-        <p>Developer: Andrija Vidić</p>
-        <a href="mailto:andrija.vidic3@gmail.com">Mail:andrija.vidic3@gmail.com</a>
-        <a href="tel:+38516165165">Tel: 0993033672</a>
-        <p>Copyright 2025. New Breed Assist in digital</p>
-    </div>
-</footer>
+<?php include 'footer.php' ?>
 </body>
 </html>
 
