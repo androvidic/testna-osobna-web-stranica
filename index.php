@@ -84,7 +84,7 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
     <br>
     <br>
 <div class="container hero">
-<h3>Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
+<h3 class="container hero" style="color: darkslategray">Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
 <br>
     <form method="post" action="autenthicate.php" id="prijavniobrazac">
         <label for="name">Ime i prezime</label>
