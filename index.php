@@ -27,14 +27,14 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
 <br>
 <br>
     </div>
-    <div class="container hero">
+    <div class="container hero" id="naseusluge">
         <h2 style="color: darkslategray" class="container hero">Uz naše usluge ste na korak do digitalizacije Vašeg poslovanja!</h2>
         <br>
     <img class = "container hero" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
 </div>
 </section>
 <section>
-<div class="container hero" id="naseusluge">
+<div class="container hero">
     <h2 class="container hero" style="color: darkslategray">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
     <br>
     <h3 class="container hero" style="color: darkslategray">Izaberite svoj modul i lansirajte svoju karijeru u programiranju!</h3>
