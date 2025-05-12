@@ -26,7 +26,7 @@ Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! N
     <div class="container hero" id="naseusluge">
         <h3 class="hero-text">Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! <br><br>Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</h3>
         <br>
-    <img class = "hero-text" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
+    <img src="slike/vizual.png" width="90%" height="auto"  alt="vizual" title="vizual" style="border-radius: 10px;">
 </div>
 </section>
 <section>
