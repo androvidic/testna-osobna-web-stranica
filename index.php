@@ -24,7 +24,7 @@ echo $greeting . ", vam želimo - dobro došli na našu web stranicu!";
 Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.</h3><br>
     </div>
     <div class="hero-text" id="naseusluge">
-        <h3>Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! <br><br>Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</h3>
+        <h3>Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</h3>
         <br>
         </div>
 </section>

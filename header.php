@@ -8,7 +8,7 @@
 </head>
 <body>
 <header>
-        <a href="index.php"><img src="slike\Transparent.png" alt="NbAid" width="300px" height="auto"></a>
+        <a href="index.php"><img src="slike\Transparent.png" alt="NbAid" width="400px" height="auto"></a>
 <nav>
     <ul>
         <li><a href="index.php">Početna stranica</a></li>

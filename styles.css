@@ -48,14 +48,15 @@ section
     background-color: #f4f5f5; 
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 60vh auto;
     flex-grow: 1;
     align-items: center;
     text-align: center;
-    padding: 20px;
-    margin: 20px;
+    padding: 20px auto;
+    margin: 20px auto;
     width: 90%;
     max-width: 1500px;
+    height: 60vh auto;
     border-radius: 10px; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
@@ -161,11 +162,12 @@ nav ul li:hover {
     transition: background-color 0.3s; 
     transform: scale(1.1);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 0.3s, box-shadow 0.3s; 
+    transition: transform 0.3s, box-shadow 0.3s;
 }
 .container {
     width: 90%; 
     max-width: 1200px; 
+    height: auto;
     margin: 20px auto; 
     padding: 20px;
     background-color: #f9f9f9; 
@@ -253,6 +255,7 @@ nav ul li:hover {
     width: 90%; 
     max-width: 1200px; 
     margin: 20px auto; 
+    height: auto;
     padding: 30px;
     background-color: #eaf4fa; 
     border-radius: 10px;
