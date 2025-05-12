@@ -3,7 +3,7 @@
         <div class="hero-image"><img class="hero-overlay" src="slike/transparent.png" title="logotip" alt="NB AID logotip"></div>
         <section>
     <div class="container hero" id="o_nama">
-    <h1 class="container hero" style="color: darkslategray">
+    <h1 class="hero-text" style="color: darkslategray">
 <?php
 $time = date("H");
 
@@ -20,7 +20,7 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
 </h1> 
 <br>
 <br>
-<div class="container hero"><h2 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h2><br>
+<div class="hero-text"><h2 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h2><br>
 <h2 style="color : darkslategray">Napravite korak prema digitalizaciji vašeg poslovanja!</h2><br>
 <h3 style="color: darkslategray">Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove!
 </h3><br>
@@ -29,16 +29,16 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
 <br>
     </div>
     <div class="container hero" id="naseusluge">
-        <h2 style="color: darkslategray" class="container hero">Uz naše usluge ste na korak do digitalizacije Vašeg poslovanja!</h2>
+        <h2 style="color: darkslategray" class="hero-text">Uz naše usluge ste na korak do digitalizacije Vašeg poslovanja!</h2>
         <br>
-    <img class = "container hero" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
+    <img class = "hero-text" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
 </div>
 </section>
 <section>
 <div class="container hero">
-    <h2 class="container hero" style="color: darkslategray">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
+    <h2 class="hero-text" style="color: darkslategray">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
     <br>
-    <h3 class="container hero" style="color: darkslategray">Izaberite svoj modul i lansirajte svoju karijeru u programiranju!</h3>
+    <h3 class="hero-text" style="color: darkslategray">Izaberite svoj modul i lansirajte svoju karijeru u programiranju!</h3>
     <table> 
         <h3 style="margin: 10px; padding: 10px">Moduli tečajeva programiranja u Algebri</h3>
         <tr> 
@@ -80,7 +80,7 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
     <br>
     <br>
 <div class="container hero">
-<h3 class="container hero" style="color: darkslategray">Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
+<h3 class="hero-text" style="color: darkslategray">Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
 <br>
     <form method="post" action="autenthicate.php" id="prijavniobrazac">
         <label for="name">Ime i prezime</label>
