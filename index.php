@@ -3,7 +3,7 @@
         <div class="hero-image"><img class="hero-overlay" src="slike/transparent.png" title="logotip" alt="NB AID logotip"></div>
         <section>
     <div class="container hero" id="o_nama">
-    <h1 class="hero-text" style="color: darkslategray">
+    <h1 class="hero-text" style="text-align: center;">
 <?php
 $time = date("H");
 
@@ -15,30 +15,25 @@ if ($time < 12) {
     $greeting = "Dobra večer";
 }
 
-echo $greeting . ", vam želimo - dobro došli na naš web!";
+echo $greeting . ", vam želimo - dobro došli na našu web stranicu!";
 ?>
 </h1> 
 <br>
 <br>
-<div class="hero-text"><h2 style="color: darkslategray">Poslujemo od 2025. godine i činimo Vaš proces digitalizacije lakšim i bržim!</h2><br>
-<h2 style="color : darkslategray">Napravite korak prema digitalizaciji vašeg poslovanja!</h2><br>
-<h3 style="color: darkslategray">Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove!
-</h3><br>
-<h4 style="font-style: italic;color: darkslategray">Naše usluge su vam na raspolaganju. Naš tim profesionalaca je tu za sva potencijalna pitanja.</h4></div>
-<br>
-<br>
+<div class="hero-text"><h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim! Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata. <br><br>
+Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman ponuditi Vam uslugu kakvu zaslužujete.</h3><br>
     </div>
     <div class="container hero" id="naseusluge">
-        <h2 style="color: darkslategray" class="hero-text">Uz naše usluge ste na korak do digitalizacije Vašeg poslovanja!</h2>
+        <h3 class="hero-text">Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! <br><br>Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</h3>
         <br>
     <img class = "hero-text" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
 </div>
 </section>
 <section>
 <div class="container hero">
-    <h2 class="hero-text" style="color: darkslategray">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
+    <h2 class="hero-text" style="text-align: center;">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
     <br>
-    <h3 class="hero-text" style="color: darkslategray">Izaberite svoj modul i lansirajte svoju karijeru u programiranju!</h3>
+    <h3 class="hero-text">Izaberite svoj modul i lansirajte svoju karijeru u programiranju! Postanite spremni za moderno tržište rada!</h3>
     <table> 
         <h3 style="margin: 10px; padding: 10px">Moduli tečajeva programiranja u Algebri</h3>
         <tr> 
@@ -80,7 +75,7 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
     <br>
     <br>
 <div class="container hero">
-<h3 class="hero-text" style="color: darkslategray">Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
+<h3 class="hero-text" style="text-align: center;">Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
 <br>
     <form method="post" action="autenthicate.php" id="prijavniobrazac">
         <label for="name">Ime i prezime</label>
