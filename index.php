@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-    <title>Primjer PHP i HTML-a</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <?php include 'header.php'; ?>
+ <?php include 'header.php'; ?>
     <main>
+        <section>
     <div class="container hero" id="o_nama">
     <h1 class="container hero" style="color: darkslategray">
 <?php
@@ -39,6 +32,8 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
         <br>
     <img class = "container hero" src="slike/Vizual.png" alt="vizual s detaljima" title="Detalji tecajeva">
 </div>
+</section>
+<section>
 <div class="container hero" id="naseusluge">
     <h2 class="container hero" style="color: darkslategray">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
     <br>
@@ -128,9 +123,9 @@ echo $greeting . ", vam želimo - dobro došli na naš web!";
     <input type="submit" value="Pošalji">
     </form>
 </div>
+</section>
     <br>
     </main>
 <?php include 'footer.php' ?>
-</body>
-</html>
+
 

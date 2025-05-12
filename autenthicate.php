@@ -27,19 +27,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['ime']) && !empty($_P
         header('Location: ./index.php');
     }
     ?>
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="styles.css">
-        <title>Autenthicate</title>
-    </head>
     <?php include 'header.php'; ?>
     <body>
         <br>
         <h2 style="text-align: center;">Ovo je stranica za autentifikaciju kliknite na <a href="./index.php">Početna stranica</a> za povratak na naslovnicu!</h2>
         <br>
     <?php include 'footer.php'; ?>
-    </body>
-    </html>
