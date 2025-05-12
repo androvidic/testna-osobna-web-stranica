@@ -29,8 +29,9 @@ Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! N
         </div>
 </section>
 <section id="vizual">
+    <div class="container hero">
     <img src="slike/vizual.png" width="60%" height="auto"  alt="vizual" title="vizual" style="border-radius: 10px;">
-
+</div>
 </section>
 <section>
 <div class="container hero">
