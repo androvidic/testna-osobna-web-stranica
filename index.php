@@ -1,5 +1,6 @@
  <?php include 'header.php'; ?>
     <main>
+        <div class="hero-image"><img class="hero-overlay" src="slike/transparent.png" title="logotip" alt="NB AID logotip"></div>
         <section>
     <div class="container hero" id="o_nama">
     <h1 class="container hero" style="color: darkslategray">
