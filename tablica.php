@@ -1,4 +1,5 @@
 <?php include 'header.php'; ?>
+    <main>
 
     <div class="container hero">
          <button onclick="downloadExcel()" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px;" class="container hero">Preuzmi kao Excel</button>
@@ -61,4 +62,5 @@ function filterTable() {
     ?>
     </table>
     </div>
+    </main>
         <?php include 'footer.php' ?>

@@ -1,5 +1,6 @@
-<hr>
+
 <footer>
+    <hr>
     <div class="footer-content" id="footer">
         <img src="slike/ANDRIJA%20VIDI%C4%86.jpg" alt="Developer je Andrija Vidić" title="Developer je Andrija Vidić" width="180" height="280"> 
         <p>Developer: Andrija Vidić</p>
@@ -10,3 +11,5 @@
         <p>Copyright © 2025. New Breed Assist in digital</p>
     
 </footer>
+</body>
+</html>
