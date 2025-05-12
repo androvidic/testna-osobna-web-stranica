@@ -28,7 +28,7 @@ footer {
 }
 
 main {
-    background-color: #f4f5f5; 
+    background-color: #e2ecec; 
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -38,7 +38,7 @@ main {
     padding: 20px auto;
     margin: 20px auto;
     width: 90%;
-    max-width: 1400px;
+    max-width: 1800px;
     border-radius: 10px; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
@@ -54,7 +54,7 @@ section
     padding: 20px;
     margin: 20px;
     width: 90%;
-    max-width: 1200px;
+    max-width: 1500px;
     border-radius: 10px; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
