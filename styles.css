@@ -28,17 +28,17 @@ footer {
 }
 
 main {
-    background-color: #e2ecec; 
+    background-color: #f0f3f3; 
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     flex-grow: 1;
     align-items: center;
     text-align: center;
-    padding: 20px auto;
-    margin: 20px auto;
-    width: 90%;
-    max-width: 1800px;
+    padding: auto;
+    margin: auto;
+    width: 100%;
+    max-width: 100%;
     border-radius: 10px; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
