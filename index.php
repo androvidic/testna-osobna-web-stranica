@@ -19,12 +19,9 @@ echo $greeting . ", vam želimo - dobro došli na našu web stranicu!";
 ?>
 </h1> 
 <div class="hero-text"><h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim! Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata. <br><br>
-Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.</h3><br>
+Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.<br><br>
+Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</h3>
     </div>
-    <div class="hero-text" id="naseusluge">
-        <h3>Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</h3>
-        <br>
-        </div>
 </section>
 <section id="vizual">
     <div class="container hero">
