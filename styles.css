@@ -24,6 +24,7 @@ footer {
     text-align: center;
     padding: 20px;
     border-top:2px solid #949191;
+    line-height: 1.5;
     
 }
 
@@ -175,6 +176,7 @@ nav ul li:hover {
     text-align: justify center;
     justify-content: space-between;
     align-items: center;
+    line-height: 1.5;
 }
 
 .hero {
@@ -261,5 +263,16 @@ nav ul li:hover {
     text-align: justify center;
     justify-content: space-between;
     align-items: center;
-    text-align: left;
+    text-align: justify;
+    
+}
+p {
+    font-family: 'Poppins';
+    color: darkslategray;
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: large;
+    text-decoration: none;
 }

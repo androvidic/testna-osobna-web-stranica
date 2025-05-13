@@ -13,7 +13,7 @@
     <ul>
         <li><a href="index.php">Početna stranica</a></li>
         <li><a href="index.php#o_nama">O nama</a></li>
-        <li><a href="index.php#vizual">Naše usluge</a></li>
+        <li><a href="index.php#usluge">Naše usluge</a></li>
         <li><a href="index.php#prijavniobrazac">Prijave</a></li>
         <li><a href="#footer">Kontakt</a></li>
     </ul>

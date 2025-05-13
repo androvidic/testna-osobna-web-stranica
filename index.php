@@ -28,16 +28,28 @@ Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! N
 </section>
 <section id="vizual">
     <div class="container hero">
-    <img src="slike/vizual.png" width="60%" height="auto"  alt="vizual" title="vizual" style="border-radius: 10px;">
+    <div class="hero-text">
+        <h2 style="text-align: center;">Riječ direktora New Breed Assist in digital-a</h2><br><br>
+        <p>Moje ime je Andrija Vidić, magistar sam ekonomije, diplomirao na Ekonomskom fakultetu u Osijeku na smjeru poduzetništvo 2017. godine. <br>Imam 33 godine i već 13 godina radim u realnom sektoru, počevši  od manje zahtjevnih poslova asistencije direktoru manjeg poduzeća, do rukovodeće pozicije Finance & CRM managera u tvrtki EDukoS Centar Znanja d.o.o. gdje vodim mnoge procese za preko 70 ljudi u timu.
+
+<br><br>Nakon skupljene gomile iskustva u bliskom radu s malim i srednjim poduzetnicima te nakon 13 godina rada za druge odlučujem se 2025. godine na pokretanje vlastitog poslovnog pothvata.
+
+Time ostvarujem svoj dječački san, spajanja poduzetništva s digitalnim alatima i radom s tehnologijom. Otkad znam za sebe, zainteresiran sam za načine funkcioniranja stvari oko sebe i logiku povezivanja stvari radi olakšanja funkcioniranja određenih procesa. <br><br>Moderne tehnološke i digitalne alate vidim kao izvrsnu priliku da sebi kao i ljudima oko sebe olakšamo i smanjimo nepotreban stres oko stvari koje sustavi i softveri mogu jednostavno i brzo činiti za nas.
+
+Svojim budućim klijentima mogu obećati maksimalan angažman i trud u radu na tome da budu zadovoljni, sretni i u suradnji s tvrkom New Breed Asisst in digital uistinu digitalno pismeni i maksimalno moderni, a opet unikatni i jedinstveni na tržištu.
+
+Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo "nova sorta" digitalne asistencije.</p>
+
+    </div>
 </div>
 </section>
 <section>
 <div class="container hero">
-    <h2 class="hero-text" style="text-align: center;">Naši partneri iz Algebre nude Vam pomoć pri učenju programiranja u PHP jeziku!</h2>
+    <div class="hero-text" style="text-align: center;"><h1>Još uvijek vodite svoje poslovanje na starim tehnologijama? <br><br><h2>Digitalizirajmo Vaše poslovanje zajedno!</h2></h1></div>
     <br>
-    <h3 class="hero-text">Izaberite svoj modul i lansirajte svoju karijeru u programiranju! Postanite spremni za moderno tržište rada!</h3>
-    <table> 
-        <h3 style="margin: 10px; padding: 10px">Moduli tečajeva programiranja u Algebri</h3>
+    <div class="hero-text">
+    <table class="container hero" id="usluge"> 
+        <div style="text-align: center;"><h3 style="margin: 10px; padding: 10px">Vrste usluga koje nudimo u New Breed Assist in digital programu</h3></div>
         <tr> 
             <th>Modul tečaja u Algebri-u</th>
              <th>Trajanje modula u satima</th>
@@ -73,11 +85,12 @@ Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! N
              <td><strong>300€</strong></td>    
         </tr> 
     </table> 
+    </div>
 </div>
 </section>
     <section>
 <div class="container hero">
-<h3 class="hero-text" style="text-align: center;">Za prijavu na tečaj programiranja, molimo Vas unesite Vaše podatke u prijavni obrazac:</h3>
+<h3 class="hero-text" style="text-align: center;">Želite postati naš klijent? Unesite Vaše podatke u prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h3>
 <br>
     <form method="post" action="autenthicate.php" id="prijavniobrazac">
         <label for="name">Ime i prezime</label>
