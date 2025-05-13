@@ -2,8 +2,9 @@
     <main>
         <div class="hero-image"><img class="hero-overlay" src="slike/transparent.png" title="logotip" alt="NB AID logotip" style="width: 600px auto; height: auto; position: absolute;"></div>
         <section>
-    <div class="container hero" id="o_nama">
-    <h1 class="hero-text" style="text-align: center;">
+    <div class="container hero">
+        <div class="hero-text" id="o_nama">
+    <h1 style="text-align: center;">
 <?php
 $time = date("H");
 
@@ -17,8 +18,8 @@ if ($time < 12) {
 
 echo $greeting . ", vam želimo - dobro došli na našu web stranicu!";
 ?>
-</h1> 
-<div class="hero-text"><h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim!
+</h1> <br><br>
+<h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim!
  Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata.</h3><br>
 <p>Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.
 Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</p>
