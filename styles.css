@@ -51,10 +51,10 @@ section
     flex-grow: 1;
     align-items: center;
     text-align: center;
-    padding: 20px auto;
+    padding: 20px;
     margin: 20px auto;
     width: 90%;
-    max-width: 1500px;
+    max-width: 1600px;
     height: 60vh auto;
     border-radius: 10px; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
@@ -165,10 +165,10 @@ nav ul li:hover {
 }
 .container {
     width: 90%; 
-    max-width: 1200px; 
+    max-width: 1300px; 
     height: auto;
-    margin: 20px auto; 
-    padding: 20px;
+    margin: 30px auto; 
+    padding: 30px;
     background-color: #f9f9f9; 
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
