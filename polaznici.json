@@ -124,5 +124,14 @@
         "komentar": "Test radi li sve kako treba",
         "spol": "f",
         "tecaj": "Uvod u HTML"
+    },
+    {
+        "imeIPrezime": "Andrija Vidić",
+        "mjesto": "Vinkovci",
+        "adresa": "Ružina 75",
+        "oib": "88213207534",
+        "komentar": "Testni komentar",
+        "spol": "n",
+        "tecaj": "Uvod u HTML"
     }
 ]
