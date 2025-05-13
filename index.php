@@ -2,8 +2,8 @@
     <main>
         <div class="hero-image"><img class="hero-overlay" src="slike/transparent.png" title="logotip" alt="NB AID logotip" style="width: 600px auto; height: auto; position: absolute;"></div>
         <section>
-    <div class="container hero">
-        <div class="hero-text" id="o_nama">
+    <div class="container hero" id="o_nama">
+        <div class="hero-text">
     <h1 style="text-align: center;">
 <?php
 $time = date("H");
@@ -51,11 +51,11 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </div>
 </section>
 <section>
-<div class="container hero">
+<div class="container hero" id="usluge">
     <div class="hero-text" style="text-align: center;"><h1>Još uvijek vodite svoje poslovanje na starim tehnologijama? <br><br><h2>Digitalizirajmo Vaše poslovanje zajedno!</h2></h1></div>
     <br>
     <div class="hero-text">
-    <table class="container hero" id="usluge"> 
+    <table class="container hero"> 
         <div style="text-align: center;"><h3 style="margin: 10px; padding: 10px">Vrste usluga koje nudimo u New Breed Assist in digital programu</h3></div>
         <tr> 
             <th>Modul tečaja u Algebri-u</th>
@@ -96,10 +96,10 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </div>
 </section>
     <section>
-<div class="container hero">
+<div class="container hero" id="prijavniobrazac">
 <h3 class="hero-text" style="text-align: center;">Želite postati naš klijent? Unesite Vaše podatke u prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h3>
 <br>
-    <form method="post" action="autenthicate.php" id="prijavniobrazac">
+    <form method="post" action="autenthicate.php">
         <label for="name">Ime i prezime</label>
     <input type="text" name="ime" placeholder="Upišite svoje ime i prezime" required>
     <br>
