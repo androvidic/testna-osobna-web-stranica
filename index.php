@@ -42,7 +42,7 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 <br>
 <p>Omogućiti svim malim i srednjim tvrtkama maksimalno individualno prilagođen  proces kompletne digitalizacije tvrtke. Tim procesom cilj je osloboditi poduzetnike nagomilanog stresa radi rada "pješke" i omogućiti njima i njihovim zaposlenicima da se fokusiraju na "prave stvari" i ulaganjem svog dodatnog vremena u iste rastu i razvijaju se.</p>
 <br>
-<h3>NAŠA VIZIJA:</h3>
+<h3>NAŠA VIZIJA:</h3><br>
 <p>Postati regionalni lider među tvrtkama za digitalno posredništvo, usluge i virtualnu pomoć. Davanjem svog maksimuma dobiti povjerenje svojih klijenata i u konačnici gledati njihovo zadovoljstvo.</p>
 </div>
  </div>
@@ -56,38 +56,66 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
     <table class="hero-text"> 
         <div style="text-align: center;"><h3 style="margin: 10px; padding: 10px">Vrste usluga koje nudimo u New Breed Assist in digital programu</h3></div>
         <tr> 
-            <th>Modul tečaja u Algebri-u</th>
-             <th>Trajanje modula u satima</th>
-             <th>Cijena modula</th>
+            <th>Vrsta usluge</th>
+             <th>Opis usluge</th>
+             <th>Cijena usluge</th>
         </tr> 
             <tr> 
-                <td><em>Linux - priprema radne okoline</em></td> 
-                <td><strong>15</strong></td>
-                <td><strong>100€</strong></td>
+                <td><em>Izrada web CRM sustava</em></td> 
+                <td><strong>Izrada web CRM sustava u PHP-u i MySQL-u. Sustavi služe za upravljanje prijavama klijenata i manipulaciju njihovim podacima u realnom vremenu putem online administracijskog sučelja. Sustav ima brojne mogućnosti, neke od njih su automatizirani E-mailovi za status plaćanja, stanja dugovanja i sl. </strong></td>
+                <td><strong>10€/h</strong></td>
         </tr> 
         <tr> 
-            <td><em>Uvod u HTML</em></td>
-             <td><strong>25</strong>
-             <td><strong>100€</strong></td>
+            <td><em>Izrada Excel CRM sustava</em></td>
+             <td><strong>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates nesciunt, quia dicta illum culpa dignissimos dolorum dolorem fuga quaerat, libero iste delectus aliquid autem, ab nobis magni soluta quae nostrum.</strong>
+             <td><strong>10€/h</strong></td>
         </tr>
         <tr> 
-            <td><em>Uvod u PHP</em></td>
-             <td><strong>20</strong></td> 
-             <td><strong>150€</strong></td>    
+            <td><em>Usluge digitalnog marketinga</em></td>
+             <td><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatibus mollitia libero hic, totam iusto quaerat debitis quibusdam id molestias consequatur dicta optio! Assumenda suscipit sint velit veniam dolores animi!</strong></td> 
+             <td><strong>10€/h</strong></td>    
         </tr> 
         <tr> 
-            <td><em>Uvod u SQL</em></td>
-             <td><strong>15</strong></td>   
-             <td><strong>200€</strong></td>  
+            <td><em>Web dizajn i izrada web stranica</em></td>
+             <td><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis aliquid a tempore, ullam dignissimos asperiores officia. Adipisci, aliquid nemo, et sapiente possimus illo reiciendis maiores consectetur perferendis assumenda vel nostrum.</strong></td>   
+             <td><strong>10€/h</strong></td>  
         </tr> 
         <tr> 
-            <td><em>Napredni PHP</em></td>
-             <td><strong>25</strong></td>  
-             <td><strong>220€</strong></td>   
+            <td><em>Task management</em></td>
+             <td><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam mollitia totam nobis est aliquam dolorem assumenda recusandae eum? Vel molestiae ad inventore, soluta obcaecati voluptatum excepturi ipsa similique dignissimos perspiciatis.</strong></td>  
+             <td><strong>10€/h</strong></td>   
         </tr> 
-        <tr> <td><em>Laravel</em></td>
-             <td><strong>25</strong></td> 
-             <td><strong>300€</strong></td>    
+        <tr> <td><em>Administracija u računovodstvu</em></td>
+             <td><strong>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam facere quidem nisi dolorum tempore sit exercitationem sed est recusandae quibusdam mollitia, fuga ratione sapiente rem debitis dolorem assumenda obcaecati modi!</strong></td> 
+             <td><strong>10€/h</strong></td>    
+        </tr> 
+        <tr> <td><em>Financijska analiza poslovanja tvrtke</em></td>
+             <td><strong>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium dicta est autem, aliquam commodi, totam excepturi omnis explicabo voluptates hic, tempore eligendi suscipit. Enim voluptas tenetur quisquam, iure atque facere.</strong></td> 
+             <td><strong>10€/h</strong></td>    
+        </tr> 
+        <tr> <td><em>Izrada vizualnog identiteta tvrtke</em></td>
+             <td><strong>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta, dolorem suscipit perspiciatis laborum non recusandae consequuntur harum ex magnam sit dolor error quae nulla beatae provident. Omnis cum nesciunt soluta?</strong></td> 
+             <td><strong>10€/h</strong></td>    
+        </tr> 
+        <tr> <td><em>Poslovne edukacije</em></td>
+             <td><strong>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni, illo quod fugiat unde pariatur totam iusto fuga vel molestiae. At illum nihil in minima voluptatibus, saepe ut ipsum vero fuga.</strong></td> 
+             <td><strong>10€/h</strong></td>    
+        </tr> 
+        <tr> <td><em>Izrada poslovnog plana za samozapošljavanje</em></td>
+             <td><strong>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod recusandae minus repudiandae tempore illo possimus natus magnam iure beatae ad, odio pariatur atque maxime error adipisci exercitationem aut! Cupiditate, maxime!</strong></td> 
+             <td><strong>10€/h</strong></td>    
+        </tr> 
+        <tr> <td><em>Izrada Google business profila</em></td>
+             <td><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quo natus dolorem corporis omnis, harum, aspernatur quasi dolor eveniet officiis quisquam delectus nemo rem hic enim quis. Necessitatibus, explicabo est!</strong></td> 
+             <td><strong>10€/h</strong></td>    
+        </tr> 
+        <tr> <td><em>Izrada i implementacija Google kalendara</em></td>
+             <td><strong>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore laudantium doloribus animi veritatis tempora ut, suscipit eius, amet vel exercitationem repellendus beatae quos. Delectus corrupti sequi saepe deleniti error ab.</strong></td> 
+             <td><strong>10€/h</strong></td>    
+        </tr> 
+        <tr> <td><em>Google analitycs</em></td>
+             <td><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, ad! Laborum minima rerum quae asperiores! Dolorem repellendus, nihil sunt maiores voluptatem eos enim illo, autem nostrum nobis voluptas distinctio cum.</strong></td> 
+             <td><strong>10€/h</strong></td>    
         </tr> 
     </table> 
     </div>
