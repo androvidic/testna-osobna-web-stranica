@@ -23,8 +23,7 @@ footer {
     align-items: center;
     text-align: center;
     padding: 20px;
-    color: black;
-    border-top:2px solid #ccc;
+    border-top:2px solid #949191;
     
 }
 
@@ -180,7 +179,6 @@ nav ul li:hover {
 
 .hero {
     background-color: #eef3f5; 
-    color: solid black;
  }   
 
 .content {

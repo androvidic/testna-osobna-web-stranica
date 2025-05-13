@@ -18,8 +18,6 @@ if ($time < 12) {
 echo $greeting . ", vam želimo - dobro došli na našu web stranicu!";
 ?>
 </h1> 
-<br>
-<br>
 <div class="hero-text"><h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim! Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata. <br><br>
 Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.</h3><br>
     </div>
