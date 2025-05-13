@@ -18,9 +18,18 @@ if ($time < 12) {
 echo $greeting . ", vam želimo - dobro došli na našu web stranicu!";
 ?>
 </h1> 
-<div class="hero-text"><h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim! Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata. <br><br>
-Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.<br><br>
-Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</h3>
+<div class="hero-text"><h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim!
+ Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata.</h3><br>
+<p>Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.
+Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</p>
+<br>
+<h3>NAŠA MISIJA:</h3>
+<br>
+<p>Omogućiti svim malim i srednjim tvrtkama maksimalno individualno prilagođen  proces kompletne digitalizacije tvrtke. Tim procesom cilj je osloboditi poduzetnike nagomilanog stresa radi rada "pješke" i omogućiti njima i njihovim zaposlenicima da se fokusiraju na "prave stvari" i ulaganjem svog dodatnog vremena u iste rastu i razvijaju se.</p>
+<br><br>
+<h3>NAŠA VIZIJA:</h3>
+<br>
+<p>Postati regionalni lider među tvrtkama za digitalno posredništvo, usluge i virtualnu pomoć. Davanjem svog maksimuma dobiti povjerenje svojih klijenata i u konačnici gledati njihovo zadovoljstvo.</p>
     </div>
 </section>
 <section id="vizual">
