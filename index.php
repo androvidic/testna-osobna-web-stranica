@@ -3,7 +3,7 @@
         <div class="hero-image"><img class="hero-overlay" src="slike/transparent.png" title="logotip" alt="NB AID logotip" style="width: 600px auto; height: auto; position: absolute;"></div>
         <section>
     <div class="container hero" id="o_nama">
-        <div class="hero-text">
+        <div>
     <h1 style="text-align: center;">
 <?php
 $time = date("H");
@@ -19,15 +19,17 @@ if ($time < 12) {
 echo $greeting . ", vam želimo - dobro došli na našu web stranicu!";
 ?>
 </h1> <br><br>
-<h3>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim!
- Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata.</h3><br>
+<h3>O NAMA:</h3>
+<br>
+<p>Mi smo New Breed Assist in digital, obrt koji posluje od 2025. godine i čini Vaš proces digitalizacije lakšim i bržim!
+ Bavimo se raznim digitalnim uslugama kojima je svrha modernizacije poslovanja naših klijenata. Želimo pomoći svakom našem klijentu da digitalizacijom svog poslovanja uštedi vrijeme i živce na krutim i sporim procesima te ih preusmjeri na inovacije i poboljšanja svog poslovanja</p><br>
 <p>Budite dio digitalnog svijeta i učinite Vašu tvrtku spremnom na sve izazove! Naše usluge su vam na raspolaganju i spremni smo pomoći Vam u svakom trenutku. Naš tim profesionalaca je tu za sva potencijalna pitanja, spreman pružiti Vam uslugu kakvu zaslužujete.
 Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje! Pružite nam svoje povjerenje i zajedno se lansirajmo u novu digitalnu dimenziju Vašeg poslovanja!</p>
 <br>
 <h3>NAŠA MISIJA:</h3>
 <br>
 <p>Omogućiti svim malim i srednjim tvrtkama maksimalno individualno prilagođen  proces kompletne digitalizacije tvrtke. Tim procesom cilj je osloboditi poduzetnike nagomilanog stresa radi rada "pješke" i omogućiti njima i njihovim zaposlenicima da se fokusiraju na "prave stvari" i ulaganjem svog dodatnog vremena u iste rastu i razvijaju se.</p>
-<br><br>
+<br>
 <h3>NAŠA VIZIJA:</h3>
 <br>
 <p>Postati regionalni lider među tvrtkama za digitalno posredništvo, usluge i virtualnu pomoć. Davanjem svog maksimuma dobiti povjerenje svojih klijenata i u konačnici gledati njihovo zadovoljstvo.</p>
@@ -35,7 +37,7 @@ Uz naše usluge u digitalizaciji, Vaša tvrtka spremna je za moderno poslovanje!
 </section>
 <section id="vizual">
     <div class="container hero">
-    <div class="hero-text">
+    <div>
         <h2 style="text-align: center;">Riječ direktora New Breed Assist in digital-a</h2><br><br>
         <p>Moje ime je Andrija Vidić, magistar sam ekonomije, diplomirao na Ekonomskom fakultetu u Osijeku na smjeru poduzetništvo 2017. godine. <br>Imam 33 godine i već 13 godina radim u realnom sektoru, počevši  od manje zahtjevnih poslova asistencije direktoru manjeg poduzeća, do rukovodeće pozicije Finance & CRM managera u tvrtki EDukoS Centar Znanja d.o.o. gdje vodim mnoge procese za preko 70 ljudi u timu.
 
@@ -52,10 +54,10 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </section>
 <section>
 <div class="container hero" id="usluge">
-    <div class="hero-text" style="text-align: center;"><h1>Još uvijek vodite svoje poslovanje na starim tehnologijama? <br><br><h2>Digitalizirajmo Vaše poslovanje zajedno!</h2></h1></div>
+    <div style="text-align: center;"><h1>Još uvijek vodite svoje poslovanje na starim tehnologijama? <br><br><h2>Digitalizirajmo Vaše poslovanje zajedno!</h2></h1></div>
     <br>
-    <div class="hero-text">
-    <table class="container hero"> 
+    <div>
+    <table class="hero-text"> 
         <div style="text-align: center;"><h3 style="margin: 10px; padding: 10px">Vrste usluga koje nudimo u New Breed Assist in digital programu</h3></div>
         <tr> 
             <th>Modul tečaja u Algebri-u</th>
@@ -97,8 +99,9 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </section>
     <section>
 <div class="container hero" id="prijavniobrazac">
-<h3 class="hero-text" style="text-align: center;">Želite postati naš klijent? Unesite Vaše podatke u prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h3>
+<h2 style="text-align: center;">Želite postati naš klijent? Unesite Vaše podatke u prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h2><br>
 <br>
+<p>Ispunjavanjem prijave dajem privolu kao potencijalni klijent New Breed Assist in digital obrta sukladno članku 7. Zakona o zaštiti osobnih podataka (”Narodne novine”, br., 103/03., 18/06., 41/08., 130/11. i 106/12.) za prikupljanje i obradu svojih osobnih podataka u svrhu dogovora oko korištenja usluga obrta. Nadalje, dajem suglasnost da ukoliko ostvarimo suradnju na svojim mrežnim stranicama u svrhu promocije rada tvrtke i njezinih partnera uz ostale marketinške aktivnosti može koristiti iste osobne podatke.</p><br>
     <form method="post" action="autenthicate.php">
         <label for="name">Ime i prezime</label>
     <input type="text" name="ime" placeholder="Upišite svoje ime i prezime" required>
