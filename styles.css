@@ -79,13 +79,7 @@ table {
     width: 60%; 
     border-collapse: collapse;
     align-items: center;
-    margin: auto;
     width: 100%;
-}
-
-tr {
-    height: auto;
-    align-items: center;
 }
 
 td, th {
