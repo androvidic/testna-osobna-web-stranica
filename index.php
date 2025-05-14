@@ -54,7 +54,10 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
     <br>
     <div>
     <table class="hero-text"> 
-        <div style="text-align: center;"><h3 style="margin: 10px; padding: 10px">Vrste usluga koje nudimo u New Breed Assist in digital programu</h3></div>
+        <div style="text-align: center;"><h3 style="margin: 10px; padding: 10px">Vrste usluga koje nudimo u New Breed Assist in digital programu</h3><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-box-arrow-down" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M3.5 10a.5.5 0 0 1-.5-.5v-8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 0 0 1h2A1.5 1.5 0 0 0 14 9.5v-8A1.5 1.5 0 0 0 12.5 0h-9A1.5 1.5 0 0 0 2 1.5v8A1.5 1.5 0 0 0 3.5 11h2a.5.5 0 0 0 0-1z"/>
+  <path fill-rule="evenodd" d="M7.646 15.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 14.293V5.5a.5.5 0 0 0-1 0v8.793l-2.146-2.147a.5.5 0 0 0-.708.708z"/>
+</svg></div>
         <tr> 
             <th>Vrsta usluge</th>
              <th>Opis usluge</th>
@@ -123,7 +126,11 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </section>
     <section>
 <div class="container hero" id="prijavniobrazac">
-<div class="hero-text"><h2 style="text-align: center;">Želite postati naš klijent? Ispunite prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h2><br>
+<div class="hero-text"><h2 style="text-align: center;">Želite postati naš klijent? <br>
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-box-arrow-in-right" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M6 3.5a.5.5 0 0 1 .5-.5h8a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-8a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 0-1 0v2A1.5 1.5 0 0 0 6.5 14h8a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2h-8A1.5 1.5 0 0 0 5 3.5v2a.5.5 0 0 0 1 0z"/>
+  <path fill-rule="evenodd" d="M11.854 8.354a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H1.5a.5.5 0 0 0 0 1h8.793l-2.147 2.146a.5.5 0 0 0 .708.708z"/>
+</svg> Ispunite prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h2><br>
 <br>
 <p>Ispunjavanjem prijave dajem privolu kao potencijalni klijent New Breed Assist in digital obrta sukladno članku 7. Zakona o zaštiti osobnih podataka (”Narodne novine”, br., 103/03., 18/06., 41/08., 130/11. i 106/12.) za prikupljanje i obradu svojih osobnih podataka u svrhu dogovora oko korištenja usluga obrta. Nadalje, dajem suglasnost da ukoliko ostvarimo suradnju na svojim mrežnim stranicama u svrhu promocije rada tvrtke i njezinih partnera uz ostale marketinške aktivnosti može koristiti iste osobne podatke.</p><br>
    </div>
