@@ -92,22 +92,22 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </svg></th>
         </tr> 
             <tr> 
-                <td><em>Izrada web CRM sustava</em></td> 
+                <td><em>Web CRM sustavi</em></td> 
                 <td>Izrada web CRM sustava u PHP-u i MySQL-u. Sustavi služe za upravljanje prijavama klijenata i manipulaciju njihovim podacima u realnom vremenu putem online administracijskog sučelja. Sustav ima brojne mogućnosti, neke od njih su automatizirani E-mailovi za status plaćanja, stanja dugovanja i sl.</td>
                 <td><strong>10€/h</strong></td>
         </tr> 
         <tr> 
-            <td><em>Izrada Excel CRM sustava</em></td>
+            <td><em>Excel CRM sustavi</em></td>
              <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates nesciunt, quia dicta illum culpa dignissimos dolorum dolorem fuga quaerat, libero iste delectus aliquid autem, ab nobis magni soluta quae nostrum.</td>
              <td><strong>10€/h</strong></td>
         </tr>
         <tr> 
-            <td><em>Usluge digitalnog marketinga</em></td>
+            <td><em>Digitalni marketing</em></td>
              <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatibus mollitia libero hic, totam iusto quaerat debitis quibusdam id molestias consequatur dicta optio! Assumenda suscipit sint velit veniam dolores animi!</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
         <tr> 
-            <td><em>Web dizajn i izrada web stranica</em></td>
+            <td><em>Web dizajn</em></td>
              <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis aliquid a tempore, ullam dignissimos asperiores officia. Adipisci, aliquid nemo, et sapiente possimus illo reiciendis maiores consectetur perferendis assumenda vel nostrum.</td>   
              <td><strong>10€/h</strong></td>  
         </tr> 
@@ -116,15 +116,15 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
              <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam mollitia totam nobis est aliquam dolorem assumenda recusandae eum? Vel molestiae ad inventore, soluta obcaecati voluptatum excepturi ipsa similique dignissimos perspiciatis.</td>  
              <td><strong>10€/h</strong></td>   
         </tr> 
-        <tr> <td><em>Administracija u računovodstvu</em></td>
+        <tr> <td><em>Administrativno računovodstvo</em></td>
              <td>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam facere quidem nisi dolorum tempore sit exercitationem sed est recusandae quibusdam mollitia, fuga ratione sapiente rem debitis dolorem assumenda obcaecati modi!</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
-        <tr> <td><em>Financijska analiza poslovanja tvrtke</em></td>
+        <tr> <td><em>Financijska analiza</em></td>
              <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium dicta est autem, aliquam commodi, totam excepturi omnis explicabo voluptates hic, tempore eligendi suscipit. Enim voluptas tenetur quisquam, iure atque facere.</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
-        <tr> <td><em>Izrada vizualnog identiteta tvrtke</em></td>
+        <tr> <td><em>Vizualni identitet</em></td>
              <td>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta, dolorem suscipit perspiciatis laborum non recusandae consequuntur harum ex magnam sit dolor error quae nulla beatae provident. Omnis cum nesciunt soluta?</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
@@ -132,15 +132,15 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
              <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni, illo quod fugiat unde pariatur totam iusto fuga vel molestiae. At illum nihil in minima voluptatibus, saepe ut ipsum vero fuga.</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
-        <tr> <td><em>Izrada poslovnog plana za samozapošljavanje</em></td>
+        <tr> <td><em>Poslovni planovi</em></td>
              <td>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod recusandae minus repudiandae tempore illo possimus natus magnam iure beatae ad, odio pariatur atque maxime error adipisci exercitationem aut! Cupiditate, maxime!</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
-        <tr> <td><em>Izrada Google business profila</em></td>
+        <tr> <td><em>Google business</em></td>
              <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quo natus dolorem corporis omnis, harum, aspernatur quasi dolor eveniet officiis quisquam delectus nemo rem hic enim quis. Necessitatibus, explicabo est!</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
-        <tr> <td><em>Izrada i implementacija Google kalendara</em></td>
+        <tr> <td><em>Google kalendar</em></td>
              <td>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore laudantium doloribus animi veritatis tempora ut, suscipit eius, amet vel exercitationem repellendus beatae quos. Delectus corrupti sequi saepe deleniti error ab.</td> 
              <td><strong>10€/h</strong></td>    
         </tr> 
