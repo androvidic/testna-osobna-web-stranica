@@ -37,8 +37,8 @@ function filterTable() {
     }
 }
 </script>
+<h3>Podaci o polaznicima</h3>
     <table>
-        <caption style="padding: 10px; margin: 10px;"><h3>Podaci o polaznicima</h3></caption>
         <tr>
             <th>Ime i prezime</th>
             <th>Mjesto stanovanja</th>
