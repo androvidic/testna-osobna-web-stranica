@@ -148,6 +148,12 @@ a:hover {
     transition: transform 0.3s;
 }
 
+svg:hover {
+    color: #2271c5; 
+    text-decoration: underline;
+    transform: scale(1.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
 
 button:hover, td:hover, th:hover, input:hover, select:hover {
     transform: scale(1.02); 
