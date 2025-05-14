@@ -50,7 +50,7 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 
 <section>
 <div class="container hero" id="usluge">
-    <div style="text-align: center;"><h1>Još uvijek vodite svoje poslovanje na starim tehnologijama? <br><br><h2>Digitalizirajmo Vaše poslovanje zajedno!</h2></h1></div>
+    <div style="text-align: center;" class="hero-text"><h1>Još uvijek vodite svoje poslovanje na starim tehnologijama? <br><br><h2>Digitalizirajmo Vaše poslovanje zajedno!</h2></h1></div>
     <br>
     <div>
     <table class="hero-text"> 
@@ -123,10 +123,11 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </section>
     <section>
 <div class="container hero" id="prijavniobrazac">
-<h2 style="text-align: center;">Želite postati naš klijent? Unesite Vaše podatke u prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h2><br>
+<div class="hero-text"><h2 style="text-align: center;">Želite postati naš klijent? Ispunite prijavni obrazac i lansirajmo Vaš proces digitalizacije!</h2><br>
 <br>
 <p>Ispunjavanjem prijave dajem privolu kao potencijalni klijent New Breed Assist in digital obrta sukladno članku 7. Zakona o zaštiti osobnih podataka (”Narodne novine”, br., 103/03., 18/06., 41/08., 130/11. i 106/12.) za prikupljanje i obradu svojih osobnih podataka u svrhu dogovora oko korištenja usluga obrta. Nadalje, dajem suglasnost da ukoliko ostvarimo suradnju na svojim mrežnim stranicama u svrhu promocije rada tvrtke i njezinih partnera uz ostale marketinške aktivnosti može koristiti iste osobne podatke.</p><br>
-    <form method="post" action="autenthicate.php">
+   </div>
+<form method="post" action="autenthicate.php">
         <label for="name">Ime i prezime</label>
     <input type="text" name="ime" placeholder="Upišite svoje ime i prezime" required>
     <br>
