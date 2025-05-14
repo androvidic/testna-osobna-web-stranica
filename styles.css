@@ -89,7 +89,7 @@ tr:nth-child(odd) {
 }
 td, th {
     border: 2px solid #4A4A4A;
-    padding: 10px;
+    padding: 20px;
     word-wrap: break-word;
     overflow-wrap: break-word;
     white-space: normal;
