@@ -27,13 +27,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['ime']) && !empty($_P
         header('Location: index.php');
     }
     ?>
-    <?php include 'header.php'; ?>
-    <main>
-        <section>
-        
-        <div class="container hero">
-        <h2 style="text-align: center;">Ovo je stranica za autentifikaciju kliknite na <a href="./index.php">Početna stranica</a> za povratak na naslovnicu!</h2>
-        </div>
-        </section>
-    </main>
-    <?php include 'footer.php'; ?>
+    

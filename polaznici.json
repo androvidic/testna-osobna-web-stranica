@@ -142,5 +142,14 @@
         "komentar": "test",
         "spol": "f",
         "tecaj": "Napredni PHP"
+    },
+    {
+        "imeIPrezime": "Andrija Vidić",
+        "mjesto": "Vinkovci",
+        "adresa": "Ivanščice 9",
+        "oib": "89162449378",
+        "komentar": "test2",
+        "spol": "m",
+        "tecaj": "Laravel"
     }
 ]
