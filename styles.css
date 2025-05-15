@@ -244,6 +244,7 @@ nav ul li:hover {
     justify-content: right;
     align-items: right;
     text-align: right;
+    border-bottom: 2px solid #c9c4c4;
 }
 
 
