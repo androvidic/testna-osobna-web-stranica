@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['ime']) && !empty($_P
         ];
         $polaznici_json = json_encode($polaznici, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
         file_put_contents('polaznici.json', $polaznici_json);
-        header('Location: ./index.php');
+        header('Location: index.php');
     }
     ?>
     <?php include 'header.php'; ?>

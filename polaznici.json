@@ -133,5 +133,14 @@
         "komentar": "Testni komentar",
         "spol": "n",
         "tecaj": "Uvod u HTML"
+    },
+    {
+        "imeIPrezime": "Andrija Vidić",
+        "mjesto": "Tenja",
+        "adresa": "Ivanščice 9",
+        "oib": "88213207534",
+        "komentar": "test",
+        "spol": "f",
+        "tecaj": "Napredni PHP"
     }
 ]
