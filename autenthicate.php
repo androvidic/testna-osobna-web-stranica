@@ -27,4 +27,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['ime']) && !empty($_P
         header('Location: index.php');
     }
     ?>
-    
