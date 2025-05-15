@@ -188,7 +188,7 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
     <br>
     <br>
     <label for="komentar">Komentar na gradivo</label>
-        <textarea name="komentar" maxlength="500" required>Napišite svoj komentar na gradivo koje želite posebno naučiti</textarea>
+        <textarea name="komentar" maxlength="500" required placeholder="Napišite svoj komentar na gradivo koje želite posebno naučiti"></textarea>
     <br>
     <br>
 <div class="radio-group">
