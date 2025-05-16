@@ -350,3 +350,39 @@ p {
     }
 }
 
+/* Osnovni stil za navigacijsku listu */
+.nav-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+/* Stil za hamburger ikonu */
+.menu-icon {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/* Stil za mobilne uređaje */
+@media screen and (max-width: 768px) {
+    .nav-list {
+        display: none;
+        flex-direction: column;
+        background: #f4f4f4;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .nav-list.active {
+        display: flex;
+    }
+}

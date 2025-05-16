@@ -16,5 +16,10 @@
         <p>Copyright © 2025. New Breed Assist in digital</p>
     </div>
 </footer>
+<script>
+    function toggleMenu() {
+        document.querySelector(".nav-list").classList.toggle("active");
+    }
+</script>
 </body>
 </html>

@@ -13,7 +13,8 @@
 <header>
         <a href="index.php"><img src="slike\Transparent.png" alt="NbAid" width="400px" height="auto"></a>
 <nav>
-    <ul>
+    <div class="menu-icon" onclick="toggleMenu()">☰</div>
+    <ul class="nav-list">
         <li><a href="index.php">Početna stranica</a></li>
         <li><a href="index.php#o_nama">O nama</a></li>
         <li><a href="index.php#usluge">Naše usluge</a></li>
