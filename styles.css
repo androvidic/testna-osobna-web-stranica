@@ -289,3 +289,64 @@ p {
     font-size: large;
     text-decoration: none;
 }
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
+
+    .hero-image {
+        height: 50vh;
+        background-position: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    section {
+        width: 100%;
+        padding: 10px;
+        margin: 10px auto;
+    }
+
+    .hero-text {
+        width: 100%;
+        padding: 15px;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+/* Responzivna tablica */
+@media screen and (max-width: 768px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    td, th {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
+
+/* Responzivna forma */
+@media screen and (max-width: 768px) {
+    form {
+        width: 100%;
+        padding: 15px;
+    }
+
+    input, select, textarea, button {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
+
