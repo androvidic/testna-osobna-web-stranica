@@ -130,7 +130,7 @@ input, select, textarea, button {
 }
 
 button[type="submit"], input[type="submit"] {
-    background-color: #4CAF50;
+    background-color: #3b6677;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -141,7 +141,7 @@ button[type="submit"], input[type="submit"] {
 }
 
 button[type="submit"]:hover, input[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #649da5;
     transform: scale(1.05); 
 }
 
