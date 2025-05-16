@@ -1,8 +1,8 @@
  <?php include 'header.php'; ?>
     <main>
         <div class="hero-image"><img class="hero-overlay" src="slike/transparent.png" title="logotip" alt="NB AID logotip" style="width: 600px auto; height: auto; position: absolute;"></div>
-        <section>
-    <div class="container hero" id="o_nama">
+    <section>
+        <div id="o_nama">
         <div class="hero-text">
     <h1 style="text-align: center;">
 <?php
@@ -61,9 +61,8 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </div>
  </div>
 </section>
-
 <section>
-<div class="container hero" id="usluge">
+<div id="usluge">
     <div style="text-align: center;" class="hero-text"><h1>Još uvijek vodite svoje poslovanje na starim tehnologijama? <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="currentColor" class="bi bi-journal-check" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M10.854 6.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 8.793l2.646-2.647a.5.5 0 0 1 .708 0"/>
   <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2"/>
@@ -152,8 +151,8 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
     </div>
 </div>
 </section>
-    <section>
-<div class="container hero" id="prijavniobrazac">
+<section>
+<div id="prijavniobrazac">
 <div class="hero-text"><h2 style="text-align: center;"><svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="currentColor" class="bi bi-patch-question" viewBox="0 0 16 16">
   <path d="M8.05 9.6c.336 0 .504-.24.554-.627.04-.534.198-.815.847-1.26.673-.475 1.049-1.09 1.049-1.986 0-1.325-.92-2.227-2.262-2.227-1.02 0-1.792.492-2.1 1.29A1.7 1.7 0 0 0 6 5.48c0 .393.203.64.545.64.272 0 .455-.147.564-.51.158-.592.525-.915 1.074-.915.61 0 1.03.446 1.03 1.084 0 .563-.208.885-.822 1.325-.619.433-.926.914-.926 1.64v.111c0 .428.208.745.585.745"/>
   <path d="m10.273 2.513-.921-.944.715-.698.622.637.89-.011a2.89 2.89 0 0 1 2.924 2.924l-.01.89.636.622a2.89 2.89 0 0 1 0 4.134l-.637.622.011.89a2.89 2.89 0 0 1-2.924 2.924l-.89-.01-.622.636a2.89 2.89 0 0 1-4.134 0l-.622-.637-.89.011a2.89 2.89 0 0 1-2.924-2.924l.01-.89-.636-.622a2.89 2.89 0 0 1 0-4.134l.637-.622-.011-.89a2.89 2.89 0 0 1 2.924-2.924l.89.01.622-.636a2.89 2.89 0 0 1 4.134 0l-.715.698a1.89 1.89 0 0 0-2.704 0l-.92.944-1.32-.016a1.89 1.89 0 0 0-1.911 1.912l.016 1.318-.944.921a1.89 1.89 0 0 0 0 2.704l.944.92-.016 1.32a1.89 1.89 0 0 0 1.912 1.911l1.318-.016.921.944a1.89 1.89 0 0 0 2.704 0l.92-.944 1.32.016a1.89 1.89 0 0 0 1.911-1.912l-.016-1.318.944-.921a1.89 1.89 0 0 0 0-2.704l-.944-.92.016-1.32a1.89 1.89 0 0 0-1.912-1.911z"/>
@@ -166,6 +165,7 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 <br>
 <p>Ispunjavanjem prijave dajem privolu kao potencijalni klijent New Breed Assist in digital obrta sukladno članku 7. Zakona o zaštiti osobnih podataka (”Narodne novine”, br., 103/03., 18/06., 41/08., 130/11. i 106/12.) za prikupljanje i obradu svojih osobnih podataka u svrhu dogovora oko korištenja usluga obrta. Nadalje, dajem suglasnost da ukoliko ostvarimo suradnju na svojim mrežnim stranicama u svrhu promocije rada tvrtke i njezinih partnera uz ostale marketinške aktivnosti može koristiti iste osobne podatke.</p><br>
    </div>
+   <div class ="hero-text" style="text-align: center;">
    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="currentColor" class="bi bi-cloud-arrow-down" viewBox="0 0 16 16">
   <path fill-rule="evenodd" d="M7.646 10.854a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0-.708-.708L8.5 9.293V5.5a.5.5 0 0 0-1 0v3.793L6.354 8.146a.5.5 0 1 0-.708.708z"/>
   <path d="M4.406 3.342A5.53 5.53 0 0 1 8 2c2.69 0 4.923 2 5.166 4.579C14.758 6.804 16 8.137 16 9.773 16 11.569 14.502 13 12.687 13H3.781C1.708 13 0 11.366 0 9.318c0-1.763 1.266-3.223 2.942-3.593.143-.863.698-1.723 1.464-2.383m.653.757c-.757.653-1.153 1.44-1.153 2.056v.448l-.445.049C2.064 6.805 1 7.952 1 9.318 1 10.785 2.23 12 3.781 12h8.906C13.98 12 15 10.988 15 9.773c0-1.216-1.02-2.228-2.313-2.228h-.5v-.5C12.188 4.825 10.328 3 8 3a4.53 4.53 0 0 0-2.941 1.1z"/>
@@ -211,9 +211,9 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 <br>
     <input type="submit" value="Pošalji">
     </form>
+    </div>
 </div>
 </section>
-    <br>
     </main>
 <?php include 'footer.php' ?>
 
