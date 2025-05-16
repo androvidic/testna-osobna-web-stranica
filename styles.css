@@ -190,7 +190,7 @@ nav ul li:hover {
 }
 
 .hero {
-    background-color: #f5f6f7; 
+    background-color: #f7f7f8; 
  }   
 
 .content {
@@ -270,7 +270,7 @@ nav ul li:hover {
     margin: 20px auto; 
     height: auto;
     padding: 30px;
-    background-color: #eaf4fa; 
+    background-color: #F7F9FC; 
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: justify center;
