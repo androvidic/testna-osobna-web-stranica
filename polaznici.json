@@ -268,5 +268,14 @@
         "komentar": "TEST JS",
         "spol": "f",
         "tecaj": "Laravel"
+    },
+    {
+        "imeIPrezime": "Marinko Matić",
+        "mjesto": "Vinkovci",
+        "adresa": "Kralja Tomislava 2",
+        "oib": "69609917921",
+        "komentar": "test JS i radi li sve kako treba",
+        "spol": "n",
+        "tecaj": "Uvod u PHP"
     }
 ]

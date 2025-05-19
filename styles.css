@@ -12,7 +12,6 @@ header {
     padding: 0 20px;
     align-items: center;
     background-color: #ffffff; 
-    border-bottom: 2px solid #ccc;
 }
 
 footer {
@@ -250,7 +249,6 @@ nav ul li:hover {
     justify-content: right;
     align-items: right;
     text-align: right;
-    border-bottom: 2px solid #c9c4c4;
 }
 
 
