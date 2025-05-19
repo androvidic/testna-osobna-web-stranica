@@ -91,12 +91,12 @@ Krenite sa mnom na ovo zanimljivo tehnološko putovanje i uvjerite se zašto smo
 </svg></th>
         </tr> 
             <tr> 
-                <td><em>Web CRM sustavi</em></td> 
+                <td><em>Web poslovne aplikacije</em></td> 
                 <td>Izrada web CRM sustava u PHP-u i MySQL-u. Sustavi služe za upravljanje prijavama klijenata i manipulaciju njihovim podacima u realnom vremenu putem online administracijskog sučelja. Sustav ima brojne mogućnosti, neke od njih su automatizirani E-mailovi za status plaćanja, stanja dugovanja i sl.</td>
                 <td><strong>10€/h</strong></td>
         </tr> 
         <tr> 
-            <td><em>Excel CRM sustavi</em></td>
+            <td><em>Excel poslovne aplikacije</em></td>
              <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates nesciunt, quia dicta illum culpa dignissimos dolorum dolorem fuga quaerat, libero iste delectus aliquid autem, ab nobis magni soluta quae nostrum.</td>
              <td><strong>10€/h</strong></td>
         </tr>
@@ -206,6 +206,14 @@ $(document).ready(function(){
     <input type="text" name="ime" placeholder="Upišite svoje ime i prezime" required>
     <br>
     <br>
+    <label for="email">E-mail</label>
+    <input type="email" name="email" placeholder="Upišite svoju e-mail adresu" required>
+    <br>
+    <br>
+    <label for="brojMobitela">Broj mobitela</label>
+    <input type="tel" name="brojMobitela" placeholder="Upišite svoj broj mobitela" required>
+    <br>
+    <br>
     <label for="mjesto">Mjesto stanovanja</label>
         <input type="text" name="mjesto" placeholder="Unesite svoje mjesto stanovanja" required>
     <br>
@@ -218,8 +226,8 @@ $(document).ready(function(){
         <input type="number" name="oib" placeholder="Unesite Vaš OIB" required pattern="[0-9]{11}">
     <br>
     <br>
-    <label for="komentar">Komentar na gradivo</label>
-        <textarea name="komentar" maxlength="500" required placeholder="Napišite svoj komentar na gradivo koje želite posebno naučiti"></textarea>
+    <label for="komentar">Recite nam neŠto o Vašoj tvrtki</label>
+        <textarea name="komentar" maxlength="500" required placeholder="Napišite nam nešto više o Vašoj tvrtki kako bismo dobili dojam o Vašim potrebama"></textarea>
     <br>
     <br>
 <div class="radio-group">
@@ -229,14 +237,21 @@ $(document).ready(function(){
     <input type="radio" name="spol" value="n">ne želim odgovoriti
 </div>
 <br>
-<label for="tecaj">Odaberite tečaj koji želite upisati</label>
-    <select name="tecaj" required>
-    <option value="Linux priprema radne okoline">Linux priprema radne okoline</option>
-    <option value="Uvod u HTML">Uvod u HTML	</option>
-    <option value="Uvod u PHP">Uvod u PHP</option>
-    <option value="Uvod u SQL">Uvod u SQL</option>
-    <option value="Napredni PHP">Napredni PHP</option>
-    <option value="Laravel">Laravel</option>
+<label for="usluga">Odaberite uslugu digitalizacije u New Breed Assist in digital-u</label>
+    <select name="usluga" required>
+    <option value="Web poslovne aplikacije">Web poslovne aplikacije</option>
+    <option value="Excel poslovne aplikacije">Excel poslovne aplikacije</option>
+    <option value="Digitalni marketing">Digitalni marketing</option>
+    <option value="Web dizajn">Web dizajn</option>
+    <option value="Task management">Task managament</option>
+    <option value="Administrativno računovodstvo">Administrativno računovodstvo</option>
+    <option value="Financijska analiza">Financijska analiza</option>
+    <option value="Vizualni identitet">Vizualni identitet</option>
+    <option value="Poslovne edukacije">Poslovne edukacije</option>
+    <option value="Poslovni planovi">Poslovni planovi</option>
+    <option value="Google Business">Google Business</option>
+    <option value="Google kalendar">Google kalendar</option>
+    <option value="Laravel">Google analitycs</option>
 </select>
 <br>
 <br>

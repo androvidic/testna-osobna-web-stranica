@@ -37,16 +37,18 @@ function filterTable() {
     }
 }
 </script>
-<h3>Podaci o polaznicima</h3>
+<h3>Podaci o klijentima</h3>
     <table>
         <tr>
             <th>Ime i prezime</th>
+            <th>E-mail</th>
+            <th>Broj mobitela</th>
             <th>Mjesto stanovanja</th>
             <th>Adresa stanovanja</th>
             <th>OIB</th>
             <th>Komentar</th>
             <th>Spol</th>
-            <th>Tecaj</th>
+            <th>Usluga</th>
         </tr>
     <?php       
         $json_Polaznici = file_get_contents('polaznici.json');
