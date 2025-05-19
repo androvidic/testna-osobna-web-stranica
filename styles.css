@@ -392,3 +392,13 @@ p {
         display: flex;
     }
 }
+#poruka {
+    display: none;
+    padding: 10px;
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #3c763d;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
