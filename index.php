@@ -222,11 +222,11 @@ $(document).ready(function(){
         <input type="text" name="adresa" placeholder="Naziv ulice i kućni broj" required>
     <br>
     <br>
-    <label for="oib">Vaš OIB </label>
+    <label for="oib">OIB </label>
         <input type="number" name="oib" placeholder="Unesite Vaš OIB" required pattern="[0-9]{11}">
     <br>
     <br>
-    <label for="komentar">Recite nam neŠto o Vašoj tvrtki</label>
+    <label for="komentar">Recite nam nešto o Vašoj tvrtki</label>
         <textarea name="komentar" maxlength="500" required placeholder="Napišite nam nešto više o Vašoj tvrtki kako bismo dobili dojam o Vašim potrebama"></textarea>
     <br>
     <br>
