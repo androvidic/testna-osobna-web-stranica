@@ -9,5 +9,27 @@
         "komentar": "test",
         "spol": "m",
         "usluga": "Excel poslovne aplikacije"
+    },
+    {
+        "imeIPrezime": "Mario Marinić",
+        "email": "mario.marinic@gmail.com",
+        "brojMobitela": "09887889865",
+        "mjesto": "Tenja",
+        "adresa": "Ružina 75, 2",
+        "oib": "61155196711",
+        "komentar": "Test",
+        "spol": "m",
+        "usluga": "Excel poslovne aplikacije"
+    },
+    {
+        "imeIPrezime": "Marta Martić",
+        "email": "marta.martic@gmail.com",
+        "brojMobitela": "09887889865",
+        "mjesto": "Tenja",
+        "adresa": "Ružina 75",
+        "oib": "19751279669",
+        "komentar": "test",
+        "spol": "f",
+        "usluga": "Digitalni marketing"
     }
 ]

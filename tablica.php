@@ -12,8 +12,8 @@ function downloadExcel() {
     let wb = XLSX.utils.book_new();
     let ws = XLSX.utils.table_to_sheet(table);
     
-    XLSX.utils.book_append_sheet(wb, ws, "Polaznici");
-    XLSX.writeFile(wb, "Polaznici.xlsx");
+    XLSX.utils.book_append_sheet(wb, ws, "Klijenti");
+    XLSX.writeFile(wb, "Klijenti.xlsx");
 }
 
 </script>
