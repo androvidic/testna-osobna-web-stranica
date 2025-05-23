@@ -251,7 +251,7 @@ $(document).ready(function(){
     <option value="Poslovni planovi">Poslovni planovi</option>
     <option value="Google Business">Google Business</option>
     <option value="Google kalendar">Google kalendar</option>
-    <option value="Laravel">Google analitycs</option>
+    <option value="Google analitycs">Google analitycs</option>
 </select>
 <br>
 <br>
