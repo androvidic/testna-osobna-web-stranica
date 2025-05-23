@@ -1,5 +1,5 @@
 <?php
-header('Content-Type: application/json'); // Postavljanje JSON zaglavlja
+header('Content-Type: application/json'); 
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['ime']) && !empty($_POST['mjesto']) && !empty($_POST['adresa']) && !empty($_POST['oib']) && !empty($_POST['komentar']) && !empty($_POST['spol']) && !empty($_POST['usluga'])) {
 
@@ -13,9 +13,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['ime']) && !empty($_P
     $spol = $_POST['spol'];
     $usluga = $_POST['usluga'];
 
-    // Provjera postoji li datoteka
+    
     if (!file_exists('polaznici.json')) {
-        file_put_contents('polaznici.json', json_encode([])); // Ako ne postoji, kreiraj je
+        file_put_contents('polaznici.json', json_encode([])); 
     }
 
     $json_Polaznici = file_get_contents('polaznici.json');
